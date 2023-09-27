@@ -244,7 +244,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media  screen and (max-width: 870px) {
   #hero {
-    background:url("../img/IMG20230212070617.jpg") top center;
+    background:url("../img/bg1.jpeg") top center;
     background-size: cover;
   }
 }
